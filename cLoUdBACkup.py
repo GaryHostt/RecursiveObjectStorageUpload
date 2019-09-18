@@ -50,8 +50,6 @@ def upload_parallel(bucket, path):
 upload_parallel(bucket, path)
 print('Launch complete')
 
-if __name__ == "__main__":
-
 
 
 
