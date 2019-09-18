@@ -7,7 +7,8 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/folder/folder/credentials.json'
 # Imports the Google Cloud client library
 from google.cloud import storage
 
-#Specify source folder here
+#Specify source folder on line 13
+#Specify GCP bucket on line 15
 #In the case below, folders are created empty until /test, then the subdir. of test
 #will be uploaded with its contents as well
 path = '/Users/desktop/test2'
