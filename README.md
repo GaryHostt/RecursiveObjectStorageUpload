@@ -9,5 +9,4 @@ This app seeks to emulate:
 gsutil cp -r /desktop/folder/ gs://ironmountainn
 ```
 
-Upload contains the basic code needed. 
-cLoUdBACkup is a funnier version.
+Print statements added for amusement. 
